@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/">
+        <file>loupe.png</file>
+        <file>loupe (2).png</file>
+        <file>loupe-1.png</file>
+        <file>image.png</file>
+        <file>image/woodbackground.png</file>
+        <file>image/woodbutton.png</file>
+        <file>image/naruto.jpg</file>
+        <file>scrapping.py</file>
+        <file>fichier.txt</file>
+        <file>image/depositphotos_9896043-stock-photo-black-texture.jpg</file>
+        <file>image/hp34cm.jpg</file>
+        <file>image/puzzle-blanc-dans-le-coin-de-l-image-sur-un-fond-d-ardoise-en-pierre-naturelle-noire-cadre-avec-espace-vide-pour-votre-description-163771484.jpg</file>
+        <file>image/logo-aliexpress.jpg</file>
+        <file>produit/Accessoires_de_vêtements.txt</file>
+        <file>produit/Alimentaire.txt</file>
+        <file>produit/Appareils_ménagers.txt</file>
+        <file>produit/Automobiles_et_Motos.txt</file>
+        <file>produit/Baggages_et_sacs.txt</file>
+        <file>produit/Beauté_&amp;_Santé.txt</file>
+        <file>produit/Biens_virtuels.txt</file>
+        <file>produit/Bijoux_et_Accessoires.txt</file>
+        <file>produit/Bricolage.txt</file>
+        <file>produit/Chaussures.txt</file>
+        <file>produit/Composants_électroniques_et_fournitures.txt</file>
+        <file>produit/Electronique.txt</file>
+        <file>produit/Extensions_de_cheveux_et_Perruques.txt</file>
+        <file>produit/Fournitures_scolaires_et_de_bureau.txt</file>
+        <file>produit/Info_Genrale.txt</file>
+        <file>produit/Jeux_et_loisirs.txt</file>
+        <file>produit/Lampes_et_éclairages.txt</file>
+        <file>produit/Maison_&amp;_Animalerie.txt</file>
+        <file>produit/Mariages_et_événements.txt</file>
+        <file>produit/Mère_et_enfant.txt</file>
+        <file>produit/Meubles.txt</file>
+        <file>produit/Mode_Femme_et_Accessoires.txt</file>
+        <file>produit/Montres.txt</file>
+        <file>produit/Nouveauté_&amp;_Usage_Spécial.txt</file>
+        <file>produit/Ordinateur_et_bureautique.txt</file>
+        <file>produit/Outils.txt</file>
+        <file>produit/Sécurité_et_Protection.txt</file>
+        <file>produit/Sous-vêtements_et_pyjamas.txt</file>
+        <file>produit/Sports_et_Loisirs.txt</file>
+        <file>produit/Téléphones_portables_et_télécommunications.txt</file>
+        <file>produit/Vêtements_homme.txt</file>
+    </qresource>
+</RCC>
