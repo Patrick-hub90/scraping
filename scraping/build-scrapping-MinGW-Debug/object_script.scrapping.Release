@@ -1,0 +1,11 @@
+release/categorie.o
+release/http.o
+release/main.o
+release/mainwindow.o
+release/search.o
+release/qrc_fichier.o
+release/moc_categorie.o
+release/moc_http.o
+release/moc_image.o
+release/moc_mainwindow.o
+release/moc_search.o
